@@ -1,3 +1,4 @@
 Testujemy plik wprowadzaj¹c dowolny tekst
 
 Zmiana nr 3.
+Zmiana nr 4.
